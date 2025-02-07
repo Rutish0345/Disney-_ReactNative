@@ -54,7 +54,7 @@ export default function Disney(){
           <Image source={require("./imagnes/gemelas.jpg")} style={estilos.image} resizeMode="cover" />
         </ScrollView>
   
-        {/* Bottom Navigation */}
+        {}
         <View style={estilos.iconosNav}>
           <TouchableOpacity>
             <Image source={require("./imagnes/casa.png")} style={estilos.iconos} resizeMode="cover" />
